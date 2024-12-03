@@ -5,7 +5,7 @@
 
 **效果展示**
 GUI界面：
-![alt text](source\image.png)
+![alt text](/source/image.png)
 视频效果:
 ![alt text](/source/dance.gif)
 
