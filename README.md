@@ -4,6 +4,9 @@
 2. 模块， 函数，  合理的解耦
 
 **效果展示**
+GUI界面：
+![alt text](source\image.png)
+视频效果:
 ![alt text](/source/dance.gif)
 
 ## 后续计划
